@@ -1,0 +1,11 @@
+.w-md-editor-content {
+  height: 100% !important;
+}
+
+.w-md-editor-text {
+  border: none !important;
+}
+
+.wmde-markdown-var {
+  --color-border-default: var(--chakra-colors-gray_1) !important;
+}
